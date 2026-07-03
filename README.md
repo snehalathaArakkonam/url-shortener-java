@@ -157,8 +157,6 @@ GitHub: [@snehalathaArakkonam](https://github.com/snehalathaArakkonam)
 
 **English:** This project demonstrates core Java fundamentals — collections, control flow, and clean console I/O — built as a placement-ready portfolio piece.
 
-**తెలుగు:** ఈ ప్రాజెక్ట్ కోర్ జావా ఫండమెంటల్స్‌ని ప్రదర్శిస్తుంది — కలెక్షన్స్, కంట్రోల్ ఫ్లో, మరియు క్లీన్ కన్సోల్ I/O — ప్లేస్‌మెంట్ కోసం సిద్ధంగా ఉన్న పోర్ట్‌ఫోలియో ప్రాజెక్ట్‌గా రూపొందించబడింది.
-
 ⭐ **If you found this useful, consider starring the repo!** ⭐
 
 </div>
